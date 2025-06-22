@@ -36,3 +36,6 @@ Before I was able to create these visuals I had to clean and transform the data 
   - power query for data cleaning,transformation and standardization
   - Data visualizations
   - Data storytelling, discovering insights.
+
+# link to the actual report 
+  - https://app.powerbi.com/view?r=eyJrIjoiN2Y3YWY5YjktODIxZS00MjVkLTljNDMtNmFhNTM4NmJiNmQ0IiwidCI6Ijk2MDQ1ODE1LWI3Y2ItNDE3Yi05NzgzLTM0Y2M2ZjYyN2ZjZCIsImMiOjh9
