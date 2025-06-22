@@ -20,11 +20,11 @@ Before I was able to create these visuals I had to clean and transform the data 
   2. Salary satisfaction is low
       Only 4.26/10 professionals are happy with their salary.
 
-  3.High Paying Industries for Data Scientists
-    The industry which data scientists earn the most is healthcare(shared top position with telecoms) which makes sense because predicting trends of sicknesses like covid-19 is invaluable.
+  3. High Paying Industries for Data Scientists
+      The industry which data scientists earn the most is healthcare(shared top position with telecoms) which makes sense because predicting trends of sicknesses like covid-19 is invaluable.
   
   4. Python is the most favoured language
-    The language of choice for data professionals is python, a staggering 389/578 professionals chose python as their coding language of choice.
+      The language of choice for data professionals is python, a staggering 389/578 professionals chose python as their coding language of choice.
 
   5. Gender pay 
     In this survey on average female participants earn more than their male counterparts, females earn on average 54300 and males earn 53740 on average.
